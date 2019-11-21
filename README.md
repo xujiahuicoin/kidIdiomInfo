@@ -1,0 +1,2 @@
+# kidIdiomInfo
+json
