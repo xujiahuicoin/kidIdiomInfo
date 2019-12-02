@@ -86,188 +86,7 @@
 			}
 		]
 	},
-	{
-		"age_type": 1,
-		"authorize": 2,
-		"copyright_name": "儿童识字",
-		"copyright_type": 0,
-		"download_type": 1,
-		"duration": 396.277551,
-		"id": 5799,
-		"image": "http://img1.imgtn.bdimg.com/it/u=3667608764,375156413&fm=26&gp=0.jpg",
-		"lrc_file_url": "",
-		"max_age": 8,
-		"min_age": 0,
-		"name": "愚公移山",
-		"play_count": 332493,
-		"resource": "http://aud3ip5.ergedd.com/audio/5799_20170418181253_q3f7.mp3",
-		"singer": "儿童识字-团队",
-		"status": 1,
-		"backgroundImg": [
-			"https://img.zcool.cn/community/016ef85c26db78a80121df907f306b.jpg@1280w_1l_2o_100sh.jpg",
-			"https://img.zcool.cn/community/0158cf5c26db78a8012029ac694d6d.jpg@1280w_1l_2o_100sh.jpg",
-			"https://img.zcool.cn/community/0138135c26db78a8012029acf39af3.jpg@1280w_1l_2o_100sh.jpg",
-			"https://img.zcool.cn/community/0156be5c26db78a80121df902abdf3.jpg@1280w_1l_2o_100sh.jpg",
-			"https://img.zcool.cn/community/01ef4d5c26db78a80121df90976e21.jpg@1280w_1l_2o_100sh.jpg",
-			"https://img.zcool.cn/community/01b8875c26db78a8012029ac3d0125.jpg@1280w_1l_2o_100sh.jpg"
-		],
-		"word": ["公", "座", "挖", "石", "孙", "背"],
-		"phoneticize": ["gōng", "zuò", "wā", "shí", "sūn", "bēi"],
-		"literacy": [{
-			"wordStr": "公",
-			"pinYinStr": "gōng",
-			"wordOneStr": "公 鸡",
-			"wordOnePinYinStr": "gōng jī",
-			"wordTwoStr": "公 正",
-			"wordTwoPinYinStr": "gōng zhèng",
-			"imageUrl": "http://txt15-2.book118.com/2018/0406/book160271/160270201.jpg",
-			"sentenceStr": "愚公面对着两座大山居住。"
-		}, {
-			"wordStr": "座",
-			"pinYinStr": "",
-			"wordOneStr": "座 位",
-			"wordOnePinYinStr": "zuò wèi",
-			"wordTwoStr": "一座山",
-			"wordTwoPinYinStr": "yī zuò shān",
-			"imageUrl": "http://img.haier.com/bbsfile/image/20180427/46b4f34d-a903-498b-a398-d3cad354ff2d.jpg",
-			"sentenceStr": "两座大山挡住了通往集市的路。"
-		}, {
-			"wordStr": "挖",
-			"pinYinStr": "wā",
-			"wordOneStr": "挖 掘",
-			"wordOnePinYinStr": "wā jué",
-			"wordTwoStr": "挖土机",
-			"wordTwoPinYinStr": "wā tǔ jī",
-			"imageUrl": "http://img.zcool.cn/community/0197c05980a805a801215603a630e1.jpg@1280w_1l_2o_100sh.jpg",
-			"sentenceStr": "愚公带领儿孙挖山。"
-		}, {
-			"wordStr": "石",
-			"pinYinStr": "shí",
-			"wordOneStr": "石 头",
-			"wordOnePinYinStr": "shí tóu",
-			"wordTwoStr": "石 块",
-			"wordTwoPinYinStr": "shí kuài",
-			"imageUrl": "http://pic.90sjimg.com/design/00/64/37/06/5930c229a7877.png",
-			"sentenceStr": "小草在石缝中生长。"
-		}, {
-			"wordStr": "孙",
-			"pinYinStr": "sūn",
-			"wordOneStr": "孙 子",
-			"wordOnePinYinStr": "sūn zǐ",
-			"wordTwoStr": "孙 女",
-			"wordTwoPinYinStr": "sūn nǚ",
-			"imageUrl": "http://img.zcool.cn/community/0197c05980a805a801215603a630e1.jpg@1280w_1l_2o_100sh.jpg",
-			"sentenceStr": "愚公的孙子也帮忙搬运石头。"
-		}, {
-			"wordStr": "背",
-			"pinYinStr": "bēi",
-			"wordOneStr": "背 包",
-			"wordOnePinYinStr": "bēi bāo",
-			"wordTwoStr": "背 后",
-			"wordTwoPinYinStr": "bèi hòu",
-			"imageUrl": "http://cdnimg103.lizhi.fm/audio_cover/2017/11/12/2635521471507302919_320x320.jpg",
-			"sentenceStr": "蜗牛总是背着重重的壳。"
-		}]
-	},
-	{
-		"age_type": 1,
-		"authorize": 2,
-		"copyright_name": "儿童识字",
-		"copyright_type": 0,
-		"download_type": 1,
-		"duration": 371.670204,
-		"id": 5806,
-		"image": "http://upload.yuwenmi.com/image/20161123/1479872325332549.jpg",
-		"lrc_file_url": "",
-		"max_age": 8,
-		"min_age": 0,
-		"name": "滥竽充数",
-		"play_count": 288788,
-		"resource": "http://aud3ip5.ergedd.com/audio/5806_20170418181257_znmb.mp3",
-		"singer": "儿童识字-团队",
-		"status": 1,
-		"backgroundImg": [
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209768900786.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209773424100.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209773397733.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209774519437.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209778031355.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209799951216.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209799363997.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209798242292.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209803740507.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209809375395.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209801056684.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209818359159.jpg",
-			"http://www.bjdfsg.com/upLoad/image/20160625/14668209817945112.jpg"
-		],
-		"word": ["乐", "吹", "先", "黄", "百", "队", "练"],
-		"phoneticize": ["yuè", "chuī", "xiān", "huáng", "bǎi", "duì", "liàn"],
-		"literacy": [{
-			"wordStr": "乐",
-			"pinYinStr": "yuè",
-			"wordOneStr": "音 乐",
-			"wordOnePinYinStr": "yīn yuè",
-			"wordTwoStr": "乐 队",
-			"wordTwoPinYinStr": "yuè duì",
-			"imageUrl": "http://img5.imgtn.bdimg.com/it/u=3878464826,283429947&fm=26&gp=0.jpg",
-			"sentenceStr": "竽是古代的一种乐器。"
-		}, {
-			"wordStr": "吹",
-			"pinYinStr": "chuī",
-			"wordOneStr": "吹 竽",
-			"wordOnePinYinStr": "chuī yú",
-			"wordTwoStr": "吹 奏",
-			"wordTwoPinYinStr": "chuī zòu",
-			"imageUrl": "http://www.bjdfsg.com/upLoad/image/20160625/14668209801056684.jpg",
-			"sentenceStr": "南郭先生其实并不会吹竽。"
-		}, {
-			"wordStr": "先",
-			"pinYinStr": "xiān",
-			"wordOneStr": "先 生",
-			"wordOnePinYinStr": "xiān shēng",
-			"wordTwoStr": "先 后",
-			"wordTwoPinYinStr": "xiān hòu",
-			"imageUrl": "http://img.mp.itc.cn/q_70,c_zoom,w_640/upload/20160821/30bcf3c26a3a4a0da6a6d7d1a641f4f5_th.jpg",
-			"sentenceStr": "吃饭前要先洗手。"
-		}, {
-			"wordStr": "黄",
-			"pinYinStr": "huáng",
-			"wordOneStr": "黄 金",
-			"wordOnePinYinStr": "huáng jīn",
-			"wordTwoStr": "黄 色",
-			"wordTwoPinYinStr": "huáng sè",
-			"imageUrl": "http://www.bjdfsg.com/upLoad/image/20160625/14668209799363997.jpg",
-			"sentenceStr": "南郭先生得到了许多黄金。"
-		}, {
-			"wordStr": "百",
-			"pinYinStr": "bǎi",
-			"wordOneStr": "百 姓",
-			"wordOnePinYinStr": "bǎi xìng",
-			"wordTwoStr": "一 百",
-			"wordTwoPinYinStr": "yī bǎi",
-			"imageUrl": "http://dpic.tiankong.com/rf/w1/QJ6158774421.jpg",
-			"sentenceStr": "这个玩具售价一百元。"
-		}, {
-			"wordStr": "队",
-			"pinYinStr": "duì",
-			"wordOneStr": "队 伍",
-			"wordOnePinYinStr": "duì wu",
-			"wordTwoStr": "队 长",
-			"wordTwoPinYinStr": "duì zhǎng",
-			"imageUrl": "http://bpic.588ku.com/element_origin_min_pic/16/11/10/f76091a2b65bd2b88dd88b71791f0638.jpg",
-			"sentenceStr": "大雁飞行都排着整齐的队伍。"
-		}, {
-			"wordStr": "练",
-			"pinYinStr": "liàn",
-			"wordOneStr": "练 习",
-			"wordOnePinYinStr": "liàn xí",
-			"wordTwoStr": "练 武",
-			"wordTwoPinYinStr": "liàn wǔ",
-			"imageUrl": "http://uploads.5068.com/allimg/1812/225-1Q206103409.jpg",
-			"sentenceStr": "乐师们都在积极练习吹竽。"
-		}]
-	},
+	
 
 	{
 		"age_type": 1,
@@ -1890,6 +1709,187 @@
 			"wordTwoPinYinStr": "gōng rén",
 			"imageUrl": "http://img4.imgtn.bdimg.com/it/u=1902714783,2599029863&fm=26&gp=0.jpg",
 			"sentenceStr": "妈妈的工作是一名教师。"
+		}]
+	},{
+		"age_type": 1,
+		"authorize": 2,
+		"copyright_name": "儿童识字",
+		"copyright_type": 0,
+		"download_type": 1,
+		"duration": 396.277551,
+		"id": 5799,
+		"image": "http://img1.imgtn.bdimg.com/it/u=3667608764,375156413&fm=26&gp=0.jpg",
+		"lrc_file_url": "",
+		"max_age": 8,
+		"min_age": 0,
+		"name": "愚公移山",
+		"play_count": 332493,
+		"resource": "http://aud3ip5.ergedd.com/audio/5799_20170418181253_q3f7.mp3",
+		"singer": "儿童识字-团队",
+		"status": 1,
+		"backgroundImg": [
+			"https://img.zcool.cn/community/016ef85c26db78a80121df907f306b.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/0158cf5c26db78a8012029ac694d6d.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/0138135c26db78a8012029acf39af3.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/0156be5c26db78a80121df902abdf3.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/01ef4d5c26db78a80121df90976e21.jpg@1280w_1l_2o_100sh.jpg",
+			"https://img.zcool.cn/community/01b8875c26db78a8012029ac3d0125.jpg@1280w_1l_2o_100sh.jpg"
+		],
+		"word": ["公", "座", "挖", "石", "孙", "背"],
+		"phoneticize": ["gōng", "zuò", "wā", "shí", "sūn", "bēi"],
+		"literacy": [{
+			"wordStr": "公",
+			"pinYinStr": "gōng",
+			"wordOneStr": "公 鸡",
+			"wordOnePinYinStr": "gōng jī",
+			"wordTwoStr": "公 正",
+			"wordTwoPinYinStr": "gōng zhèng",
+			"imageUrl": "http://txt15-2.book118.com/2018/0406/book160271/160270201.jpg",
+			"sentenceStr": "愚公面对着两座大山居住。"
+		}, {
+			"wordStr": "座",
+			"pinYinStr": "",
+			"wordOneStr": "座 位",
+			"wordOnePinYinStr": "zuò wèi",
+			"wordTwoStr": "一座山",
+			"wordTwoPinYinStr": "yī zuò shān",
+			"imageUrl": "http://img.haier.com/bbsfile/image/20180427/46b4f34d-a903-498b-a398-d3cad354ff2d.jpg",
+			"sentenceStr": "两座大山挡住了通往集市的路。"
+		}, {
+			"wordStr": "挖",
+			"pinYinStr": "wā",
+			"wordOneStr": "挖 掘",
+			"wordOnePinYinStr": "wā jué",
+			"wordTwoStr": "挖土机",
+			"wordTwoPinYinStr": "wā tǔ jī",
+			"imageUrl": "http://img.zcool.cn/community/0197c05980a805a801215603a630e1.jpg@1280w_1l_2o_100sh.jpg",
+			"sentenceStr": "愚公带领儿孙挖山。"
+		}, {
+			"wordStr": "石",
+			"pinYinStr": "shí",
+			"wordOneStr": "石 头",
+			"wordOnePinYinStr": "shí tóu",
+			"wordTwoStr": "石 块",
+			"wordTwoPinYinStr": "shí kuài",
+			"imageUrl": "http://pic.90sjimg.com/design/00/64/37/06/5930c229a7877.png",
+			"sentenceStr": "小草在石缝中生长。"
+		}, {
+			"wordStr": "孙",
+			"pinYinStr": "sūn",
+			"wordOneStr": "孙 子",
+			"wordOnePinYinStr": "sūn zǐ",
+			"wordTwoStr": "孙 女",
+			"wordTwoPinYinStr": "sūn nǚ",
+			"imageUrl": "http://img.zcool.cn/community/0197c05980a805a801215603a630e1.jpg@1280w_1l_2o_100sh.jpg",
+			"sentenceStr": "愚公的孙子也帮忙搬运石头。"
+		}, {
+			"wordStr": "背",
+			"pinYinStr": "bēi",
+			"wordOneStr": "背 包",
+			"wordOnePinYinStr": "bēi bāo",
+			"wordTwoStr": "背 后",
+			"wordTwoPinYinStr": "bèi hòu",
+			"imageUrl": "http://cdnimg103.lizhi.fm/audio_cover/2017/11/12/2635521471507302919_320x320.jpg",
+			"sentenceStr": "蜗牛总是背着重重的壳。"
+		}]
+	},
+	{
+		"age_type": 1,
+		"authorize": 2,
+		"copyright_name": "儿童识字",
+		"copyright_type": 0,
+		"download_type": 1,
+		"duration": 371.670204,
+		"id": 5806,
+		"image": "http://upload.yuwenmi.com/image/20161123/1479872325332549.jpg",
+		"lrc_file_url": "",
+		"max_age": 8,
+		"min_age": 0,
+		"name": "滥竽充数",
+		"play_count": 288788,
+		"resource": "http://aud3ip5.ergedd.com/audio/5806_20170418181257_znmb.mp3",
+		"singer": "儿童识字-团队",
+		"status": 1,
+		"backgroundImg": [
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209768900786.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209773424100.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209773397733.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209774519437.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209778031355.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209799951216.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209799363997.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209798242292.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209803740507.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209809375395.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209801056684.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209818359159.jpg",
+			"http://www.bjdfsg.com/upLoad/image/20160625/14668209817945112.jpg"
+		],
+		"word": ["乐", "吹", "先", "黄", "百", "队", "练"],
+		"phoneticize": ["yuè", "chuī", "xiān", "huáng", "bǎi", "duì", "liàn"],
+		"literacy": [{
+			"wordStr": "乐",
+			"pinYinStr": "yuè",
+			"wordOneStr": "音 乐",
+			"wordOnePinYinStr": "yīn yuè",
+			"wordTwoStr": "乐 队",
+			"wordTwoPinYinStr": "yuè duì",
+			"imageUrl": "http://img5.imgtn.bdimg.com/it/u=3878464826,283429947&fm=26&gp=0.jpg",
+			"sentenceStr": "竽是古代的一种乐器。"
+		}, {
+			"wordStr": "吹",
+			"pinYinStr": "chuī",
+			"wordOneStr": "吹 竽",
+			"wordOnePinYinStr": "chuī yú",
+			"wordTwoStr": "吹 奏",
+			"wordTwoPinYinStr": "chuī zòu",
+			"imageUrl": "http://www.bjdfsg.com/upLoad/image/20160625/14668209801056684.jpg",
+			"sentenceStr": "南郭先生其实并不会吹竽。"
+		}, {
+			"wordStr": "先",
+			"pinYinStr": "xiān",
+			"wordOneStr": "先 生",
+			"wordOnePinYinStr": "xiān shēng",
+			"wordTwoStr": "先 后",
+			"wordTwoPinYinStr": "xiān hòu",
+			"imageUrl": "http://img.mp.itc.cn/q_70,c_zoom,w_640/upload/20160821/30bcf3c26a3a4a0da6a6d7d1a641f4f5_th.jpg",
+			"sentenceStr": "吃饭前要先洗手。"
+		}, {
+			"wordStr": "黄",
+			"pinYinStr": "huáng",
+			"wordOneStr": "黄 金",
+			"wordOnePinYinStr": "huáng jīn",
+			"wordTwoStr": "黄 色",
+			"wordTwoPinYinStr": "huáng sè",
+			"imageUrl": "http://www.bjdfsg.com/upLoad/image/20160625/14668209799363997.jpg",
+			"sentenceStr": "南郭先生得到了许多黄金。"
+		}, {
+			"wordStr": "百",
+			"pinYinStr": "bǎi",
+			"wordOneStr": "百 姓",
+			"wordOnePinYinStr": "bǎi xìng",
+			"wordTwoStr": "一 百",
+			"wordTwoPinYinStr": "yī bǎi",
+			"imageUrl": "http://dpic.tiankong.com/rf/w1/QJ6158774421.jpg",
+			"sentenceStr": "这个玩具售价一百元。"
+		}, {
+			"wordStr": "队",
+			"pinYinStr": "duì",
+			"wordOneStr": "队 伍",
+			"wordOnePinYinStr": "duì wu",
+			"wordTwoStr": "队 长",
+			"wordTwoPinYinStr": "duì zhǎng",
+			"imageUrl": "http://bpic.588ku.com/element_origin_min_pic/16/11/10/f76091a2b65bd2b88dd88b71791f0638.jpg",
+			"sentenceStr": "大雁飞行都排着整齐的队伍。"
+		}, {
+			"wordStr": "练",
+			"pinYinStr": "liàn",
+			"wordOneStr": "练 习",
+			"wordOnePinYinStr": "liàn xí",
+			"wordTwoStr": "练 武",
+			"wordTwoPinYinStr": "liàn wǔ",
+			"imageUrl": "http://uploads.5068.com/allimg/1812/225-1Q206103409.jpg",
+			"sentenceStr": "乐师们都在积极练习吹竽。"
 		}]
 	},
 	{
