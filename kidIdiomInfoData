@@ -457,7 +457,7 @@
 			"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3962847327,974940433&fm=26&gp=0.jpg"
 		],
 		"word": ["瓜", "君", "田", "李", "下"],
-		"phoneticize": ["guā", "jūn", "tián", "fáng", "lǐ", "xià"],
+		"phoneticize": ["guā", "jūn", "tián", "lǐ", "xià"],
 		"literacy": [{
 			"wordStr": "瓜",
 			"pinYinStr": "guā",
